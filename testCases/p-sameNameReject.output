@@ -1,0 +1,17 @@
+
+Welcome to Qwirkle!
+-------------------
+
+Menu
+----
+1. New Game
+2. Load Game
+3. Show student information
+4. Quit
+ Enter your choice : >  Starting a New Game
+How many players are there?
+>  Enter a name for player 1 (uppercase characters only)
+>  Enter a name for player 2 (uppercase characters only)
+>  Error: entered names must be unique
+Enter a name for player 2 (uppercase characters only)
+>  Goodbye

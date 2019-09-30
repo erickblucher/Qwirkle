@@ -1,0 +1,57 @@
+
+Welcome to Qwirkle!
+-------------------
+
+Menu
+----
+1. New Game
+2. Load Game
+3. Show student information
+4. Quit
+ Enter your choice : >  Enter the filename from which load a game
+>
+Qwirkle game successfully loaded
+
+BBBB, it's your turn
+Score for AAAA: 1
+Score for BBBB: 0
+Score for CCCC: 0
+Score for DDDD: 0
+   0  1  2  3  4  5
+  -------------------
+A |  |  |  |  |  |  |
+B |  |  |  |  |  |  |
+C |  |  |  |  |  |  |
+D |  |  |  |  |  |  |
+E |  |  |  |  |Y6|  |
+F |  |  |  |  |  |  |
+Your hand is
+R2,R6,Y6
+
+Enter any of the following commands
+
+place <<Tile>> at <<Position>>
+replace <<Tile>>
+save
+>  CCCC, it's your turn
+Score for AAAA: 1
+Score for BBBB: 2
+Score for CCCC: 0
+Score for DDDD: 0
+   0  1  2  3  4  5
+  -------------------
+A |  |  |  |  |  |  |
+B |  |  |  |  |  |  |
+C |  |  |  |  |  |  |
+D |  |  |  |  |R6|  |
+E |  |  |  |  |Y6|  |
+F |  |  |  |  |  |  |
+Your hand is
+R3,O1
+
+Enter any of the following commands
+
+place <<Tile>> at <<Position>>
+replace <<Tile>>
+save
+>  Goodbye

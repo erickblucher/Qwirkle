@@ -1,0 +1,161 @@
+
+Welcome to Qwirkle!
+-------------------
+
+Menu
+----
+1. New Game
+2. Load Game
+3. Show student information
+4. Quit
+ Enter your choice : >  Enter the filename from which load a game
+>
+Qwirkle game successfully loaded
+
+AAAA, it's your turn
+Score for AAAA: 0
+Score for BBBB: 0
+Score for CCCC: 0
+Score for DDDD: 0
+   0  1  2  3  4  5
+  -------------------
+A |  |  |  |  |  |  |
+B |  |  |  |  |  |  |
+C |  |  |  |  |  |  |
+D |  |  |  |  |  |  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+Your hand is
+R1,R5
+
+Enter any of the following commands
+
+place <<Tile>> at <<Position>>
+replace <<Tile>>
+save
+>  BBBB, it's your turn
+Score for AAAA: 0
+Score for BBBB: 0
+Score for CCCC: 0
+Score for DDDD: 0
+   0  1  2  3  4  5
+  -------------------
+A |  |  |  |  |  |  |
+B |  |  |  |  |  |  |
+C |  |  |  |  |  |  |
+D |  |  |  |  |R1|  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+Your hand is
+R2,R6
+
+Enter any of the following commands
+
+place <<Tile>> at <<Position>>
+replace <<Tile>>
+save
+>  CCCC, it's your turn
+Score for AAAA: 0
+Score for BBBB: 2
+Score for CCCC: 0
+Score for DDDD: 0
+   0  1  2  3  4  5  6
+  ----------------------
+A |  |  |  |  |  |  |  |
+B |  |  |  |  |  |  |  |
+C |  |  |  |  |  |  |  |
+D |  |  |  |  |R1|R2|  |
+E |  |  |  |  |  |  |  |
+F |  |  |  |  |  |  |  |
+G |  |  |  |  |  |  |  |
+Your hand is
+R3,O1
+
+Enter any of the following commands
+
+place <<Tile>> at <<Position>>
+replace <<Tile>>
+save
+>  DDDD, it's your turn
+Score for AAAA: 0
+Score for BBBB: 2
+Score for CCCC: 3
+Score for DDDD: 0
+   0  1  2  3  4  5  6  7
+  -------------------------
+A |  |  |  |  |  |  |  |  |
+B |  |  |  |  |  |  |  |  |
+C |  |  |  |  |  |  |  |  |
+D |  |  |  |  |R1|R2|R3|  |
+E |  |  |  |  |  |  |  |  |
+F |  |  |  |  |  |  |  |  |
+G |  |  |  |  |  |  |  |  |
+H |  |  |  |  |  |  |  |  |
+Your hand is
+R4,Y2
+
+Enter any of the following commands
+
+place <<Tile>> at <<Position>>
+replace <<Tile>>
+save
+>  AAAA, it's your turn
+Score for AAAA: 0
+Score for BBBB: 2
+Score for CCCC: 3
+Score for DDDD: 4
+   0  1  2  3  4  5  6  7  8
+  ----------------------------
+A |  |  |  |  |  |  |  |  |  |
+B |  |  |  |  |  |  |  |  |  |
+C |  |  |  |  |  |  |  |  |  |
+D |  |  |  |  |R1|R2|R3|R4|  |
+E |  |  |  |  |  |  |  |  |  |
+F |  |  |  |  |  |  |  |  |  |
+G |  |  |  |  |  |  |  |  |  |
+H |  |  |  |  |  |  |  |  |  |
+I |  |  |  |  |  |  |  |  |  |
+Your hand is
+R5,G3
+
+Enter any of the following commands
+
+place <<Tile>> at <<Position>>
+replace <<Tile>>
+save
+>  BBBB, it's your turn
+Score for AAAA: 5
+Score for BBBB: 2
+Score for CCCC: 3
+Score for DDDD: 4
+   0  1  2  3  4  5  6  7  8  9
+  -------------------------------
+A |  |  |  |  |  |  |  |  |  |  |
+B |  |  |  |  |  |  |  |  |  |  |
+C |  |  |  |  |  |  |  |  |  |  |
+D |  |  |  |  |R1|R2|R3|R4|R5|  |
+E |  |  |  |  |  |  |  |  |  |  |
+F |  |  |  |  |  |  |  |  |  |  |
+G |  |  |  |  |  |  |  |  |  |  |
+H |  |  |  |  |  |  |  |  |  |  |
+I |  |  |  |  |  |  |  |  |  |  |
+J |  |  |  |  |  |  |  |  |  |  |
+Your hand is
+R6
+
+Enter any of the following commands
+
+place <<Tile>> at <<Position>>
+replace <<Tile>>
+save
+>  Qwirkle!
+Game Over
+
+Score for AAAA: 5
+Score for BBBB: 14
+Score for CCCC: 3
+Score for DDDD: 4
+Player BBBB won!
+
+
+Goodbye
